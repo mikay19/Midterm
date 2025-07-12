@@ -204,7 +204,7 @@ body{
 
 .about-our-internet .container {
   display: flex;
-  gap: 340px; /* Increased gap for more space between image and content */
+  gap: 340px; 
   align-items: flex-start;
 }
 
@@ -213,7 +213,7 @@ body{
   flex: 1;
 }
 
-/* FAM.PNG */
+
 .image-box img {
   position: relative;
   border-radius: 5px;
@@ -241,13 +241,12 @@ body{
 .border::before {
   content: "";
   position: absolute;
-  top: 100px;   /* Adjust this to move the border vertically */
-  left: 195px;  /* Adjust this to move the border horizontally */
+  top: 100px;   
+  left: 195px;  
   width: 461px;
   height: 629px;
   border: 3px solid #D4111A;
-  /* box-shadow: 0 4px 24px rgba(212, 17, 26, 0.10); */
-  border-radius: 0; /* match your needs */
+  border-radius: 0; 
 }
 
 .experience-badge {
@@ -305,7 +304,7 @@ body{
 .content {
   flex: 1;
   max-width: 600px;
-  margin-left: 40px; /* Added margin for finer control */
+  margin-left: 40px;
 }
 
 .subtitle {
@@ -495,9 +494,9 @@ margin-bottom: 1px;
 
 .woman-img {
   display: block;
-  margin-top: 110px; /* Move her down a bit */
+  margin-top: 110px; 
   position: relative;
-  left: -60px;     /* Adjust this value so her hand is under '30mbps' */
+  left: -60px;   
   height: 850px;  
   width: 850px;
   margin-bottom: 0;
@@ -559,7 +558,7 @@ margin-bottom: 1px;
   margin-bottom: 32px;
   gap: 0;
   height: 145px;
-  margin-top: 32px; /* Increase this value to move both boxes further down */
+  margin-top: 32px;
 }
 
 .pricing-box {
@@ -632,7 +631,7 @@ margin-bottom: 1px;
   font-size: 20px;
   color: #000;
   font-family: 'Inter', sans-serif;
-  margin-top: 25px; /* Adjust this value as needed */
+  margin-top: 25px;
 }
 .package-features-list li {
   display: flex;
@@ -701,7 +700,6 @@ margin-bottom: 1px;
   gap: 8px;
 }
 
-/* Expert list font style from Figma */
 .package-features-list li {
   font-family: 'Inter', sans-serif;
   font-size: 29px;
