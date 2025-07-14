@@ -67,6 +67,10 @@ body{
   font-weight: 500;
   
 }
+.navigation-links a{
+  text-decoration: none;
+  color: #000;
+}
 
 .cart {
   display: inline;
