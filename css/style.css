@@ -1,5 +1,4 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Paytone+One&family=Rhodium+Libre&family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Paytone+One&family=Rhodium+Libre&family=Righteous&display=');
 
 body{
   margin: 0;
@@ -234,7 +233,7 @@ body{
 
 .about-our-internet .container {
   display: flex;
-  gap: 340px; 
+  gap: 340px;
   align-items: flex-start;
 }
 
@@ -271,12 +270,12 @@ body{
 .border::before {
   content: "";
   position: absolute;
-  top: 100px;   
+  top: 100px;  
   left: 195px;  
   width: 461px;
   height: 629px;
   border: 3px solid #D4111A;
-  border-radius: 0; 
+  border-radius: 0;
 }
 
 .experience-badge {
@@ -325,8 +324,8 @@ body{
 }
 
 .rating-bubble .i-con{
-  width:14px; 
-  height:14px; 
+  width:14px;
+  height:14px;
   margin-left: 4px;
   margin-bottom: 10px;
 }
@@ -524,9 +523,9 @@ margin-bottom: 1px;
 
 .woman-img {
   display: block;
-  margin-top: 110px; 
+  margin-top: 110px;
   position: relative;
-  left: -60px;   
+  left: -60px;  
   height: 850px;  
   width: 850px;
   margin-bottom: 0;
@@ -617,12 +616,12 @@ margin-bottom: 1px;
 
 .pricing-box .peso, .pricing-box .per, .install-fee .peso, .install-fee .per {
   color: #000000AB;
-  
-  
+ 
+ 
 }
 .pricing-box .per, .install-fee .per {
   font-weight: 700;
-  margin-top: 40px; 
+  margin-top: 40px;
 }
 
 .pricing-box .per {
@@ -742,4 +741,3 @@ margin-bottom: 1px;
   height: 16px;
   background: #fff;
 }
-
