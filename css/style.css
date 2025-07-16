@@ -52,13 +52,13 @@ body{
   font-size: 32px;
   font-weight: 700;
   color: #D4111A;
-  margin-right: 150px;
+  margin-right: 115px;
   margin-left: 71px;
 }
 .nav-links {
   display: flex;
   list-style: none;
-  margin-right: 10px;        
+  margin-right: 5px;        
   padding: 0;
   align-items: center;
 }
@@ -70,9 +70,6 @@ body{
   display: flex;
   align-items: center;
   margin-left: 30px;
-}
-.nav-links li.active {
-  font-weight: 700;
 }
 .nav-links li a {
   color: #000;
