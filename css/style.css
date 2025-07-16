@@ -25,7 +25,7 @@ body{
   padding: 0 70px;
   height: 49px;
 }
-/* icons ni */
+
 .header-top .icon {
   width: 19px;
   height: 20px;
@@ -33,7 +33,6 @@ body{
 }
 .social-icons {
   margin-left: 16px;
-  display: flex;
   gap: 8px;
 }
 .left, .right{
@@ -43,7 +42,7 @@ body{
   margin-left: 12px;
 }
 .navigation-bar {
-  display: flex;
+  /* display: flex; */
   align-items: center;
   background: #fff;
   padding: 10px 10px 10px 10px;
