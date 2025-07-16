@@ -65,7 +65,7 @@ body{
 .nav-links li {
   font-family: 'Inter', sans-serif;
   font-size: 15px;
-  font-weight: 300px;
+  font-weight: 300;
   color: #000;
   display: flex;
   align-items: center;
