@@ -57,7 +57,7 @@ body{
   margin-left: 71px;
 }
 .nav-links {
-  display: flex;
+  display: contents;
   list-style: none;
   margin-right: 10px;        
   padding: 0;
@@ -70,7 +70,7 @@ body{
   color: #000;
   display: flex;
   align-items: center;
-  margin-left: 30px;
+  margin-left: 20px;
 }
 .nav-links li a {
   color: #000;
