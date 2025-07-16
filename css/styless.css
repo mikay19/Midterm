@@ -53,20 +53,20 @@ body{
   font-size: 32px;
   font-weight: 700;
   color: #D4111A;
-  margin-right: 150px;
+  margin-right: 115px;
   margin-left: 71px;
 }
 .nav-links {
-  display: contents;
   list-style: none;
-  margin-right: 10px;        
+  margin-right: 5px;        
   padding: 0;
   align-items: center;
+  display: flex;
 }
 .nav-links li {
   font-family: 'Inter', sans-serif;
   font-size: 15px;
-  font-weight: 300;
+  font-weight: 300px;
   color: #000;
   display: flex;
   align-items: center;
