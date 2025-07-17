@@ -80,9 +80,11 @@ body{
   text-decoration: none;
   position: relative;
 }
-.nav-links img {
+.nav-links li img {
   margin-left: 4px;
+  vertical-align: middle;
 }
+
 .nav-icons {
   display: flex;
   align-items: center;
